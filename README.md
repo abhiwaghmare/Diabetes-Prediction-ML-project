@@ -6,16 +6,16 @@
 3)Hitesh Santani D12C 57
 
 # Problem Statement:
-  The problem aims to predict if the person has Diabetes or not.The parameters used for predictions are Age,Blood pressure,Insuline level,Skin thickness,Number of pregnencies,Glucose.
+The problem aims to predict if the person has Diabetes or not.The parameters used for predictions are Age,Blood pressure,Insuline level,Skin thickness,Number of pregnencies,Glucose.
      
 ## Dataset Used
-    Dataset used is Diabetes.csv. I got this dataset from kaggle.
+Dataset used is Diabetes.csv. We got this dataset from kaggle.
         
 ## Software Used
-    Jupyter Notebook
+Jupyter Notebook
    
 ## Libraries Used
-    Numpy,Pandas,Scikit-learn,matplotlib,seaborn
+Numpy,Pandas,Scikit-learn,matplotlib,seaborn
     
 # Algorithms Implemented
 ## 1.Naive Baye's algorithm
