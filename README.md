@@ -1,7 +1,7 @@
 # Diabetes-Prediction-ML-project
 
 ##  Team Members:
-1. Abhishk Waghmare D12C 66
+1. Abhishek Waghmare D12C 66
 2. Baldev Sundarani D12C 62
 3. Hitesh Santani D12C 57
 
